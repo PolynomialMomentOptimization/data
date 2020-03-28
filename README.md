@@ -1,4 +1,6 @@
 # data
 
-Data sets related to polynomial optimization problems.
-Supported by POEMA network 
+Data sets of polynomial optimization problems.
+
+Supported by [POEMA](http://poema-network.eu/) network
+
