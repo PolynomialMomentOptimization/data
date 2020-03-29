@@ -1,0 +1,28 @@
+[
+  {
+    "nvar": 2,
+    "polynomial": "inf",
+    "exponents": {
+      "[2, 2]": 2,
+      "[1, 1]": 4,
+      "[2, 1]": 2
+    },
+    "coefficients": [
+      1,
+      1
+    ]
+  },
+  {
+    "nvar": 2,
+    "polynomial": "<=0",
+    "exponents": {
+      "[2, 2]": 2,
+      "[1, 1]": 2
+    },
+    "coefficients": [
+      1,
+      1,
+      -2
+    ]
+  }
+]
