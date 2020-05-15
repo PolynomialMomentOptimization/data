@@ -1,0 +1,24 @@
+{
+  "type": "polynomial",
+  "variables": [
+    "x",
+    "y"
+  ],
+  "nvar": 2,
+  "constraints": [],
+  "objective": {
+    "set": "inf",
+    "polynomial": {
+      "coeftype": "Int64",
+      "terms": [
+        [1,[4,2]],
+        [1,[2,4]],
+        [-3,[2,2]],
+        [1]
+      ]
+    }
+  },
+  "version": "0.0.1",
+  "uuid": "42d34e10-9695-11ea-189d-99128b2f444e",
+  "name": "Motzkin"
+}
