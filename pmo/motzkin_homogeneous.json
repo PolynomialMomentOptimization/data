@@ -1,0 +1,38 @@
+{
+  "type": "polynomial",
+  "variables": [
+    "x",
+    "y",
+    "z"
+  ],
+  "nvar": 3,
+  "constraints": [
+    {
+      "set": "=0",
+      "polynomial": {
+        "coeftype": "Int64",
+        "terms": [
+          [1,[2],[1]],
+          [1,[2],[2]],
+          [1,[2],[3]],
+          [-1]
+        ]
+      }
+    }
+  ],
+  "objective": {
+    "set": "inf",
+    "polynomial": {
+      "coeftype": "Int64",
+      "terms": [
+        [1,[4,2],[1,2]],
+        [1,[2,4],[1,2]],
+        [-3,[2,2,2]],
+        [1,[6],[3]]
+      ]
+    }
+  },
+  "version": "0.0.1",
+  "uuid": "840580f2-0a05-11eb-3b0f-a1deb91422e6",
+  "name": "Motzkin homogeneous"
+}
