@@ -1,8 +1,8 @@
 "uuid","name","url"
-"83c94e7a-f3ab-5447-9af7-d94c0b1920cf","Example0","https://raw.githubusercontent.com/PolynomialOptimization/data/master/pmo/example0.json"
-cb46cb04-83db-11ea-0b43-87115082d076,"Motzkin",https://raw.githubusercontent.com/PolynomialOptimization/data/master/pmo/motzkin.json
+"83c94e7a-f3ab-5447-9af7-d94c0b1920cf","Example0","https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/pmo/example0.json"
+cb46cb04-83db-11ea-0b43-87115082d076,"Motzkin",https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/pmo/motzkin.json
 e46b1efe-0a05-11eb-198e-0912f9f7d742,"Motzkin homogeneous",https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/pmo/motzkin_homogeneous.json
 9f986ed0-0a0a-11eb-1b68-bbdd1e265571,"WB2 power system",https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/pmo/WB2.json
-1de8b7f0-0a0f-11eb-1cec-c7f4f63c927b,"WB5",https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/pmo/WB5.json
+1de8b7f0-0a0f-11eb-1cec-c7f4f63c927b,"WB5 power system",https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/pmo/WB5.json
 5db91550-0a0f-11eb-1c45-e56b9e8804a4,case3sc,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/pmo/case3sc.json
 798f1720-0a0f-11eb-2f35-d9d22203a9c4,case14,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/pmo/case14.json
