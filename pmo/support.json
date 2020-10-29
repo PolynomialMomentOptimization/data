@@ -1,0 +1,63 @@
+{
+  "type": "moment",
+  "variables": [
+    "x",
+    "y"
+  ],
+  "nvar": 2,
+  "nms": 1,
+  "constraints": [
+    {
+      "set": ">=0",
+      "moments": {
+        "coeftype": "Int64",
+        "terms": [
+          [-1,1,[2],[1]],
+          [-1,1,[2],[2]],
+          [1,1]
+        ]
+      }
+    },
+    {
+      "set": ">=0",
+      "moments": {
+        "coeftype": "Int64",
+        "terms": [
+          [-1,1,[1,1]]
+        ]
+      }
+    },
+    {
+      "set": ">=0",
+      "moments": {
+        "coeftype": "Int64",
+        "terms": [
+          [1,1,[1],[1]],
+          [-1,1,[1],[2]]
+        ]
+      }
+    },
+    {
+      "set": ">=0",
+      "moments": {
+        "coeftype": "Int64",
+        "terms": [
+          [-1,1,[2],[1]],
+          [1,1,[1],[2]]
+        ]
+      }
+    }
+  ],
+  "objective": {
+    "set": "inf",
+    "moments": {
+      "coeftype": "Int64",
+      "terms": [
+        [1,1]
+      ]
+    }
+  },
+  "version": "0.0.1",
+  "uuid": "d8a62d46-19f2-11eb-3812-41b685e99553",
+  "name": "Support of Archimedean Quadratic Modules"
+}
