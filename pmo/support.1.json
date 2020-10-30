@@ -1,0 +1,64 @@
+{
+  "type": "moment",
+  "variables": [
+    "x",
+    "y"
+  ],
+  "nvar": 2,
+  "nms": 1,
+  "constraints": [
+    {
+      "set": ">=0",
+      "moments": {
+        "coeftype": "Int64",
+        "terms": [
+          [-1,1,[2],[1]],
+          [-1,1,[2],[2]],
+          [1,1]
+        ]
+      }
+    },
+    {
+      "set": ">=0",
+      "moments": {
+        "coeftype": "Int64",
+        "terms": [
+          [-1,1,[1,1]]
+        ]
+      }
+    },
+    {
+      "set": ">=0",
+      "moments": {
+        "coeftype": "Int64",
+        "terms": [
+          [1,1,[1],[1]],
+          [-1,1,[1],[2]]
+        ]
+      }
+    },
+    {
+      "set": ">=0",
+      "moments": {
+        "coeftype": "Int64",
+        "terms": [
+          [-1,1,[2],[1]],
+          [1,1,[1],[2]]
+        ]
+      }
+    }
+  ],
+  "objective": {
+    "set": "inf",
+    "moments": {
+      "coeftype": "Int64",
+      "terms": [
+        [1,1]
+      ]
+    }
+  },
+  "version": "0.0.1",
+  "uuid": "92994ad0-1ac5-11eb-1c3c-3970d23ce1ad",
+  "name": "Support of Archimedean Quadratic Modules",
+  "doc": "Example taken from: C. Scheiderer, Distinguished representations of non-negative polynomials. J. Algebra 289, 558-573 (2005). \n\n It is an example of Archimedean qudratic module Q=Q(g1,g2,g3,g4) where the zarisky closure of the semialgebraic set is different from rad(supp Q)"
+}
