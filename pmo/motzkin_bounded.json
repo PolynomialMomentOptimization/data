@@ -30,7 +30,7 @@
       ]
     }
   },
-  "version": "0.0.3",
+  "version": "0.0.2",
   "uuid": "dab9e7be-19fa-11eb-329b-c5570aaed8a0",
   "name": "Motzkin bounded",
   "author": "Bernard Mourrain"
