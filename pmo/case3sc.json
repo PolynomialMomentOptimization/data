@@ -604,5 +604,6 @@
   },
   "version": "0.0.1",
   "uuid": "a12d4f82-f278-11ea-31c7-17377a934557",
-  "doc": "CASE3SC    Power flow data for 3-bus system used in [1].\n\n  The semidefinite relaxation of the OPF problem successfully solves\n\t  case3sc with a value of 60 MVA for the line-flow limit on the line from\n   bus 3 to bus 2. The semidefinite relaxation fails to give a physically\n   meaningful solution to case3sc with a value of 50 MVA for the line-flow\n   limit on this line. See [1] for further details.\n\n   [1] B.C. Lesieutre, D.K. Molzahn, A.R. Borden, and C.L. DeMarco,\n       \"Examining the Limits of the Application of Semidefinite\n      Programming to Power Flow Problems,\" In 49th Annual Allerton\n       Conference on Communication, Control, and Computing, 2011,\n      September 28-30 2011.\n"
+  "doc": "CASE3SC    Power flow data for 3-bus system used in [1].\n\n  The semidefinite relaxation of the OPF problem successfully solves\n\t  case3sc with a value of 60 MVA for the line-flow limit on the line from\n   bus 3 to bus 2. The semidefinite relaxation fails to give a physically\n   meaningful solution to case3sc with a value of 50 MVA for the line-flow\n   limit on this line. See [1] for further details.\n\n   [1] B.C. Lesieutre, D.K. Molzahn, A.R. Borden, and C.L. DeMarco,\n       \"Examining the Limits of the Application of Semidefinite\n      Programming to Power Flow Problems,\" In 49th Annual Allerton\n       Conference on Communication, Control, and Computing, 2011,\n      September 28-30 2011.\n",
+  "author": "Edgar Fuentes Figueroa"
 }
