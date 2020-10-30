@@ -59,5 +59,6 @@
   },
   "version": "0.0.1",
   "uuid": "d8a62d46-19f2-11eb-3812-41b685e99553",
-  "name": "Support of Archimedean Quadratic Modules"
+  "name": "Support of Archimedean Quadratic Modules",
+  "author": "Lorenzo Baldi"
 }
