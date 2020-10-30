@@ -58,12 +58,7 @@
     }
   },
   "version": "0.0.1",
-  "uuid": "d8a62d46-19f2-11eb-3812-41b685e99553",
+  "uuid": "92994ad0-1ac5-11eb-1c3c-3970d23ce1ad",
   "name": "Support of Archimedean Quadratic Modules",
-  "author": "Lorenzo Baldi",
-  "doc": "Example taken from: C. Scheiderer, Distinguished representations of no\
-n-negative polynomials. J. Algebra 289, 558-573 (2005). \n\n It is an example of\
- Archimedean quadratic module Q=Q(g1,g2,g3,g4) where the Zarisky closure of the s\
-emialgebraic set is different from rad(supp Q)" 
+  "doc": "Example taken from: C. Scheiderer, Distinguished representations of non-negative polynomials. J. Algebra 289, 558-573 (2005). \n\n It is an example of Archimedean qudratic module Q=Q(g1,g2,g3,g4) where the zarisky closure of the semialgebraic set is different from rad(supp Q)"
 }
-
