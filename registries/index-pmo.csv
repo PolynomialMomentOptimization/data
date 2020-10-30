@@ -1,10 +1,10 @@
 "uuid","name","url"
-83c94e7a-f3ab-5447-9af7-d94c0b1920cf,Example0,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/pmo/example0.json
-cb46cb04-83db-11ea-0b43-87115082d076,Motzkin,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/pmo/motzkin.json
-e46b1efe-0a05-11eb-198e-0912f9f7d742,Motzkin homogeneous,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/pmo/motzkin_homogeneous.json
-41ec724e-f0f5-11ea-1bf3-8dcd115cf7cd,WB2 power system,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/pmo/WB2.json
-8c3931d0-f277-11ea-35c7-f70e592ae3be,WB5 power system,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/pmo/WB5.json
-a12d4f82-f278-11ea-31c7-17377a934557,case3sc,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/pmo/case3sc.json
-fd8af0c0-f278-11ea-1c77-63baac7f79a0,case14,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/pmo/case14.json
-dab9e7be-19fa-11eb-329b-c5570aaed8a0,Motzkin bounded,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/pmo/motzkin_bounded.json
+83c94e7a-f3ab-5447-9af7-d94c0b1920cf,Example0,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/pmo/example0.json 
+cb46cb04-83db-11ea-0b43-87115082d076,Motzkin,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/pmo/motzkin.json 
+e46b1efe-0a05-11eb-198e-0912f9f7d742,Motzkin homogeneous,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/pmo/motzkin_homogeneous.json 
+41ec724e-f0f5-11ea-1bf3-8dcd115cf7cd,WB2 power system,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/pmo/WB2.json 
+8c3931d0-f277-11ea-35c7-f70e592ae3be,WB5 power system,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/pmo/WB5.json 
+a12d4f82-f278-11ea-31c7-17377a934557,case3sc,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/pmo/case3sc.json 
+fd8af0c0-f278-11ea-1c77-63baac7f79a0,case14,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/pmo/case14.json 
+dab9e7be-19fa-11eb-329b-c5570aaed8a0,Motzkin bounded,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/pmo/motzkin_bounded.json 
 d8a62d46-19f2-11eb-3812-41b685e99553,Support of Archimedean Quadratic Modules,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/pmo/support.json 
