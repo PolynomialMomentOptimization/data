@@ -30,7 +30,8 @@
       ]
     }
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "uuid": "1c8d2e9e-1acd-11eb-0817-e96a5d1ffad7",
-  "name": "Motzkin bounded"
+  "name": "Motzkin bounded",
+  "doc": "Celebrate Motzkin polynomial, which is a non-negative polynomial, but not a Sum of Squares\n"
 }
