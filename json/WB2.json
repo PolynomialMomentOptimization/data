@@ -223,7 +223,7 @@
       ]
     }
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "uuid": "41ec724e-f0f5-11ea-1bf3-8dcd115cf7cd",
   "doc": "Celebrate Motzkin polynomial, which is a non-negative polynomial, but not a Sum of Squares\n",
   "name": "WB2 power system",
