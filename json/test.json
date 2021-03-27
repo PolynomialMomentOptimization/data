@@ -1,0 +1,34 @@
+{
+  "type": "polynomial",
+  "variables": [
+    "x",
+    "y"
+  ],
+  "nvar": 2,
+  "constraints": [
+    {
+      "set": "=0",
+      "polynomial": {
+        "coeftype": "Int64",
+        "terms": [
+          [-1,[2],[1]],
+          [-1,[2],[2]],
+          [1]
+        ]
+      }
+    }
+  ],
+  "objective": {
+    "set": "inf",
+    "polynomial": {
+      "coeftype": "Int64",
+      "terms": [
+        [1,[2,2]],
+        [1,[1,1]]
+      ]
+    }
+  },
+  "version": "0.0.1",
+  "uuid": "bbd0bcee-8f0a-11eb-1d8d-b5bae6dcf6bf",
+  "author": "me"
+}
