@@ -32,7 +32,9 @@
       ]
     }
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "uuid": "e46b1efe-0a05-11eb-198e-0912f9f7d742",
-  "name": "Motzkin homogeneous"
+  "name": "Motzkin homogeneous",
+  "doc": "Homogeneous Motzkin polynomial on the unit sphere\n",
+  "author": "Bernard Mourrain"
 }
