@@ -5,7 +5,6 @@
     "y"
   ],
   "nvar": 2,
-  "nms": 1,
   "constraints": [
     {
       "set": ">=0",
@@ -48,7 +47,6 @@
       }
     }
   ],
-  "objective": "",
   "version": "0.0.2",
   "uuid": "d8a62d46-19f2-11eb-3812-41b685e99553",
   "name": "Support of Archimedean Quadratic Modules",
