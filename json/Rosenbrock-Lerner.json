@@ -559,5 +559,7 @@
     }
   },
   "version": "0.0.1",
-  "uuid": "6d86ff30-3951-11eb-0063-49172b4bfd05"
+  "uuid": "6d86ff30-3951-11eb-0063-49172b4bfd05",
+  "name": "Rosenbrock-Lerner",
+  "author": "Hoang Anh"
 }
