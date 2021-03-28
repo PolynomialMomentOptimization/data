@@ -1,0 +1,37 @@
+{
+  "type": "polynomial",
+  "variables": [
+    "x",
+    "y"
+  ],
+  "nvar": 2,
+  "constraints": [
+    {
+      "set": ">=0",
+      "polynomial": {
+        "coeftype": "Int64",
+        "terms": [
+          [-1,[2],[1]],
+          [-1,[2],[2]],
+          [2]
+        ]
+      }
+    }
+  ],
+  "objective": {
+    "set": "inf",
+    "polynomial": {
+      "coeftype": "Int64",
+      "terms": [
+        [1,[4,2]],
+        [1,[2,4]],
+        [-3,[2,2]],
+        [1]
+      ]
+    }
+  },
+  "version": "0.0.1",
+  "uuid": "2445a494-8fa1-11eb-3c55-ed6fce3a6465",
+  "name": "Motzkin bounded",
+  "author": "Joe Test"
+}
