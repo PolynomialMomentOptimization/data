@@ -1,7 +1,7 @@
 {
 	"type": "sdp",
-	"name": "problems\/SDPA\/trto1.dat-s",
-	"nvar": 36,
+	"name": "SDPA trto1.dat-s",
+	"nvar": 36,  
 	"objective": [1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],
 	"constraints": {
 		"nlmi": 1,
@@ -263,5 +263,8 @@
 		"lmiduallr": 1,
 		"lmidualrank": 1
 	}
+    "uuid": "fb18ed0e-905e-11eb-0a6d-3dadee9ce736"
+    "version": "0.0.1"
+    "author": "Michal Kocvara"
 }
 
