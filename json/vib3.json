@@ -1,6 +1,6 @@
 {
 	"type": "sdp",
-	"name": "problems\/SDPA\/vib3.dat-s",
+	"name": "SDPA vib3",
 	"nvar": 36,
 	"objective": [1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],
 	"constraints": {
