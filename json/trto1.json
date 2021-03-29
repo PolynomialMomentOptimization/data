@@ -262,7 +262,7 @@
 		"lsi_op": [1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],
 		"lmiduallr": 1,
 		"lmidualrank": 1
-	}
+	},
     "uuid": "fb18ed0e-905e-11eb-0a6d-3dadee9ce736",
     "version": "0.0.1",
     "author": "Michal Kocvara"

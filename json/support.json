@@ -53,3 +53,4 @@
   "author": "Lorenzo Baldi",
   "doc": "Example taken from: C. Scheiderer, Distinguished representations of non-negative polynomials. J. Algebra 289, 558-573 (2005). \n\n It is an example of Archimedean quadratic module Q=Q(g1,g2,g3,g4) where the Zarisky closure of the semialgebraic set is different from rad(supp Q)"
 }
+
