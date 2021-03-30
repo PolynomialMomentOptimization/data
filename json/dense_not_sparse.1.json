@@ -55,5 +55,6 @@
   "version": "0.0.1",
   "uuid": "be036800-9139-11eb-0b78-efaf47ccfc12",
   "doc": "The objective polynomial has a dense Putinar's representation, but not a sparse one.\n",
-  "author": "Victor Magron"
+  "author": "Victor Magron",
+  "name": "Dense not sparse"
 }
