@@ -11,3 +11,4 @@ d8a62d46-19f2-11eb-3812-41b685e99553,Support of Archimedean Quadratic Modules,ht
 6d86ff30-3951-11eb-0063-49172b4bfd05,Rosenbrock-Lerner,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/Rosenbrock-Lerner.json
 fb18ed0e-905e-11eb-0a6d-3dadee9ce736,SDPA trto1,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/trto1.json
 be036800-9139-11eb-0b78-efaf47ccfc12,Dense not sparse,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/dense_not_sparse.json
+89fa727c-91fc-11eb-1528-adfd9247e1ab,2x2 matrix multiplication tensor,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/tensor_mult_22.json
