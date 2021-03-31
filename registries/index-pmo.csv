@@ -13,4 +13,3 @@ fb18ed0e-905e-11eb-0a6d-3dadee9ce736,SDPA trto1,https://raw.githubusercontent.co
 be036800-9139-11eb-0b78-efaf47ccfc12,Dense not sparse,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/dense_not_sparse.json
 89fa727c-91fc-11eb-1528-adfd9247e1ab,2x2 matrix multiplication tensor,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/tensor_mult_22.json
 ae45d71a-91fd-11eb-2321-b13698a7549c,3x3 matrix multiplication tensor,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/tensor_mult_33.json
-535efe54-9208-11eb-379c-53a8938ef994,Motzkin bounded,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/motzkin_bounded.1.json
