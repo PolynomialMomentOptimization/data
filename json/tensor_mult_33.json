@@ -6624,5 +6624,6 @@
   "version": "0.0.1",
   "uuid": "ae45d71a-91fd-11eb-2321-b13698a7549c",
   "name": "3x3 matrix multiplication tensor",
-  "author": "Bernard Mourrain"
+  "author": "Bernard Mourrain",
+  "doc": "Tensor of multiplication of 3x3 matrices:\n\n\nT = x[1]*y[1]*z[1] + x[1]*y[4]*z[4] + x[1]*y[7]*z[7] + x[2]*y[1]*z[2] + x[2]*y[4]*z[5] + x[2]*y[7]*z[8] + x[3]*y[1]*z[3] + x[3]*y[4]*z[6] + x[3]*y[7]*z[9] + x[4]*y[2]*z[1] + x[4]*y[5]*z[4] + x[4]*y[8]*z[7] + x[5]*y[2]*z[2] + x[5]*y[5]*z[5] + x[5]*y[8]*z[8] + x[6]*y[2]*z[3] + x[6]*y[5]*z[6] + x[6]*y[8]*z[9] + x[7]*y[3]*z[1] + x[7]*y[6]*z[4] + x[7]*y[9]*z[7] + x[8]*y[3]*z[2] + x[8]*y[6]*z[5] + x[8]*y[9]*z[8] + x[9]*y[3]*z[3] + x[9]*y[6]*z[6] + x[9]*y[9]*z[9]\n\n"
 }
