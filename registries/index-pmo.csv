@@ -14,4 +14,3 @@ be036800-9139-11eb-0b78-efaf47ccfc12,Dense not sparse,https://raw.githubusercont
 89fa727c-91fc-11eb-1528-adfd9247e1ab,2x2 matrix multiplication tensor,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/tensor_mult_22.json
 ae45d71a-91fd-11eb-2321-b13698a7549c,3x3 matrix multiplication tensor,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/tensor_mult_33.json
 62d269ee-92cc-11eb-03fc-0538da2bcc39,Whitney umbrella singular locus,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/whitney_umbrella.json
-0df93c42-92d7-11eb-249b-75fc98aceba1,Robinson polynomial,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/robinson_polynomial.json
