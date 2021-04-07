@@ -9487,5 +9487,6 @@
   "version": "0.0.1",
   "uuid": "08180f10-96ba-11eb-17ee-55439390c6a8",
   "doc": "IEEE 57-bus system with 77MVA apparent-power flow limits for all lines\n",
-  "author": "efuentes"
+  "author": "efuentes",
+  "name": "case57L power system"
 }
