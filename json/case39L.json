@@ -5581,5 +5581,6 @@
   "version": "0.0.1",
   "uuid": "42c70ef0-96b9-11eb-1f2a-f53f807ed58f",
   "doc": "IEEE 39-bus system with all apparent power line-flow limits decreased by 15%\n",
-  "author": "efuentes"
+  "author": "efuentes",
+  "name": "case39L power system"
 }
