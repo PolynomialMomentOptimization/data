@@ -1540,5 +1540,6 @@
   "version": "0.0.1",
   "uuid": "df158350-96b8-11eb-3a7b-4173a0cea72f",
   "doc": "IEEE 14-bus system with all active and reactive loads decreased by 50%\n",
-  "author": "efuentes"
+  "author": "efuentes",
+  "name": "case14Q power system"
 }
