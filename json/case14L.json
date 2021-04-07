@@ -2799,5 +2799,6 @@
   "version": "0.0.1",
   "uuid": "434965b0-96b6-11eb-1dc2-f5b11a878379",
   "doc": "IEEE 14-bus system with 25MVA apparent-power flow limits for all lines\n",
-  "author": "efuentes"
+  "author": "efuentes",
+  "name": "case14L power system"
 }

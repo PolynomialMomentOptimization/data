@@ -17,7 +17,7 @@ ae45d71a-91fd-11eb-2321-b13698a7549c,3x3 matrix multiplication tensor,https://ra
 0df93c42-92d7-11eb-249b-75fc98aceba1,Robinson polynomial,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/robinson_polynomial.json
 97bbcfb6-92e2-11eb-1633-5b4e12e274df,Singular locus of a real surface,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/singular_surface.json
 df158350-96b8-11eb-3a7b-4173a0cea72f,case14Q power system,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/case14Q.json
-434965b0-96b6-11eb-1dc2-f5b11a878379,,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/case14L.json
+434965b0-96b6-11eb-1dc2-f5b11a878379,case14L power system,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/case14L.json
 20421550-96b9-11eb-2823-c3b6eb8f0037,,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/case39Q.json
 42c70ef0-96b9-11eb-1f2a-f53f807ed58f,,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/case39L.json
 d148fdf0-96b9-11eb-2ab3-e34eb46b4ee9,,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/case57Q.json
