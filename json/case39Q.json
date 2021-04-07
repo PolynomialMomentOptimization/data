@@ -5581,5 +5581,6 @@
   "version": "0.0.1",
   "uuid": "20421550-96b9-11eb-2823-c3b6eb8f0037",
   "doc": "IEEE 39-bus system with active and reactive loads decreased by 50%\nand voltage bounds tightened to [1.05,0.95] per unit\n",
-  "author": "efuentes"
+  "author": "efuentes",
+  "name": "case39Q power system"
 }
