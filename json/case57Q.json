@@ -5135,5 +5135,6 @@
   "version": "0.0.1",
   "uuid": "d148fdf0-96b9-11eb-2ab3-e34eb46b4ee9",
   "doc": "IEEE 57-bus system with active and reactive demand reduced by 75%\nand all lower limits on generator reactive power injections set to -10 MVAr\n",
-  "author": "efuentes"
+  "author": "efuentes",
+  "name": "case57Q power system"
 }
