@@ -30,7 +30,7 @@
     "z9"
   ],
   "nvar": 27,
-  "nms": 2,
+  "nms": 1,
   "constraints": [
     {
       "set": "=0 *",
