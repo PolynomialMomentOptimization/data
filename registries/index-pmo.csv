@@ -9,7 +9,6 @@ fd8af0c0-f278-11ea-1c77-63baac7f79a0,case14 power system,https://raw.githubuserc
 dab9e7be-19fa-11eb-329b-c5570aaed8a0,Motzkin bounded,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/motzkin_bounded.json
 d8a62d46-19f2-11eb-3812-41b685e99553,Support of Archimedean Quadratic Modules,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/support.json
 6d86ff30-3951-11eb-0063-49172b4bfd05,Rosenbrock-Lerner,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/Rosenbrock-Lerner.json
-fb18ed0e-905e-11eb-0a6d-3dadee9ce736,SDPA trto1,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/trto1.json
 be036800-9139-11eb-0b78-efaf47ccfc12,Dense not sparse,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/dense_not_sparse.json
 89fa727c-91fc-11eb-1528-adfd9247e1ab,2x2 matrix multiplication tensor,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/tensor_mult_22.json
 ae45d71a-91fd-11eb-2321-b13698a7549c,3x3 matrix multiplication tensor,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/tensor_mult_33.json
@@ -22,3 +21,11 @@ df158350-96b8-11eb-3a7b-4173a0cea72f,case14Q power system,https://raw.githubuser
 42c70ef0-96b9-11eb-1f2a-f53f807ed58f,case39L power system,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/case39L.json
 d148fdf0-96b9-11eb-2ab3-e34eb46b4ee9,case57Q power system,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/case57Q.json
 08180f10-96ba-11eb-17ee-55439390c6a8,case57L power system,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/case57L.json
+64ab8bb6-9add-11eb-1838-295fc91157c4,problems/SDPA/tru3.dat-s,/Users/mourrain/.julia/PMO/data/registries/tru3.json
+7f03aee6-9add-11eb-120a-09e9d1ac7d50,problems/SDPA/tru5.dat-s,/Users/mourrain/.julia/PMO/data/registries/tru5.json
+903b7842-9add-11eb-1e6b-6379cb71cba7,problems/SDPA/tru7.dat-s,/Users/mourrain/.julia/PMO/data/registries/tru7.json
+a7bae41c-9add-11eb-2bb1-cbd1a5b0d14c,problems/SDPA/tru9.dat-s,/Users/mourrain/.julia/PMO/data/registries/tru9.json
+b1bc2446-9adb-11eb-194e-7ffb8c08717c,problems/SDPA/vib3.dat-s,/Users/mourrain/.julia/PMO/data/registries/vib3.json
+6e80abce-9adc-11eb-2552-0d89bc06e799,problems/SDPA/vib5.dat-s,/Users/mourrain/.julia/PMO/data/registries/vib5.json
+900d3bea-9adc-11eb-198b-97d39840acda,problems/SDPA/vib7.dat-s,/Users/mourrain/.julia/PMO/data/registries/vib7.json
+aec9a884-9adc-11eb-326c-b5e6c69bc87d,problems/SDPA/vib9.dat-s,/Users/mourrain/.julia/PMO/data/registries/vib9.json
