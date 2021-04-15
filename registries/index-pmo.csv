@@ -21,11 +21,11 @@ df158350-96b8-11eb-3a7b-4173a0cea72f,case14Q power system,https://raw.githubuser
 42c70ef0-96b9-11eb-1f2a-f53f807ed58f,case39L power system,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/case39L.json
 d148fdf0-96b9-11eb-2ab3-e34eb46b4ee9,case57Q power system,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/case57Q.json
 08180f10-96ba-11eb-17ee-55439390c6a8,case57L power system,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/case57L.json
-64ab8bb6-9add-11eb-1838-295fc91157c4,problems/SDPA/tru3.dat-s,/Users/mourrain/.julia/PMO/data/registries/tru3.json
-7f03aee6-9add-11eb-120a-09e9d1ac7d50,problems/SDPA/tru5.dat-s,/Users/mourrain/.julia/PMO/data/registries/tru5.json
-903b7842-9add-11eb-1e6b-6379cb71cba7,problems/SDPA/tru7.dat-s,/Users/mourrain/.julia/PMO/data/registries/tru7.json
-a7bae41c-9add-11eb-2bb1-cbd1a5b0d14c,problems/SDPA/tru9.dat-s,/Users/mourrain/.julia/PMO/data/registries/tru9.json
-b1bc2446-9adb-11eb-194e-7ffb8c08717c,problems/SDPA/vib3.dat-s,/Users/mourrain/.julia/PMO/data/registries/vib3.json
-6e80abce-9adc-11eb-2552-0d89bc06e799,problems/SDPA/vib5.dat-s,/Users/mourrain/.julia/PMO/data/registries/vib5.json
-900d3bea-9adc-11eb-198b-97d39840acda,problems/SDPA/vib7.dat-s,/Users/mourrain/.julia/PMO/data/registries/vib7.json
-aec9a884-9adc-11eb-326c-b5e6c69bc87d,problems/SDPA/vib9.dat-s,/Users/mourrain/.julia/PMO/data/registries/vib9.json
+64ab8bb6-9add-11eb-1838-295fc91157c4,problems/SDPA/tru3.dat-s,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/tru3.json
+7f03aee6-9add-11eb-120a-09e9d1ac7d50,problems/SDPA/tru5.dat-s,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/tru5.json
+903b7842-9add-11eb-1e6b-6379cb71cba7,problems/SDPA/tru7.dat-s,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/tru7.json
+a7bae41c-9add-11eb-2bb1-cbd1a5b0d14c,problems/SDPA/tru9.dat-s,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/tru9.json
+b1bc2446-9adb-11eb-194e-7ffb8c08717c,problems/SDPA/vib3.dat-s,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/vib3.json
+6e80abce-9adc-11eb-2552-0d89bc06e799,problems/SDPA/vib5.dat-s,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/vib5.json
+900d3bea-9adc-11eb-198b-97d39840acda,problems/SDPA/vib7.dat-s,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/vib7.json
+aec9a884-9adc-11eb-326c-b5e6c69bc87d,problems/SDPA/vib9.dat-s,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/vib9.json
