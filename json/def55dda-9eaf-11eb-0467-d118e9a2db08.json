@@ -1,0 +1,59 @@
+{
+  "type": "polynomial",
+  "variables": [
+    "x",
+    "y",
+    "z"
+  ],
+  "nvar": 3,
+  "constraints": [
+    {
+      "set": ">=0",
+      "polynomial": {
+        "coeftype": "Int64",
+        "terms": [
+          [-1,[2],[1]],
+          [1]
+        ]
+      }
+    },
+    {
+      "set": ">=0",
+      "polynomial": {
+        "coeftype": "Int64",
+        "terms": [
+          [-1,[2],[2]],
+          [1]
+        ]
+      }
+    },
+    {
+      "set": ">=0",
+      "polynomial": {
+        "coeftype": "Int64",
+        "terms": [
+          [-1,[2],[3]],
+          [1]
+        ]
+      }
+    }
+  ],
+  "objective": {
+    "set": "inf",
+    "polynomial": {
+      "coeftype": "Int64",
+      "terms": [
+        [1,[2],[1]],
+        [2,[1,1],[1,2]],
+        [2,[1,1],[1,3]],
+        [1,[2],[2]],
+        [2,[1,1],[2,3]],
+        [1,[2],[3]]
+      ]
+    }
+  },
+  "version": "0.0.1",
+  "uuid": "def55dda-9eaf-11eb-0467-d118e9a2db08",
+  "name": "dense_not_sparse",
+  "author": "Victor Magron"
+}
