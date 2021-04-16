@@ -1,0 +1,75 @@
+{
+  "type": "polynomial",
+  "variables": [
+    "x",
+    "y"
+  ],
+  "nvar": 2,
+  "constraints": [
+    {
+      "set": ">=0",
+      "polynomial": {
+        "coeftype": "Int64",
+        "terms": [
+          [-1,[1],[1]],
+          [2,[1],[2]],
+          [-1]
+        ]
+      }
+    },
+    {
+      "set": ">=0",
+      "polynomial": {
+        "coeftype": "Int64",
+        "terms": [
+          [-1,[1],[1]],
+          [2,[1],[2]],
+          [-1]
+        ]
+      }
+    },
+    {
+      "set": ">=0",
+      "polynomial": {
+        "coeftype": "Int64",
+        "terms": [
+          [3,[1],[1]],
+          [-5,[1],[2]],
+          [-1]
+        ]
+      }
+    },
+    {
+      "set": ">=0",
+      "polynomial": {
+        "coeftype": "Int64",
+        "terms": [
+          [1,[1],[1]]
+        ]
+      }
+    },
+    {
+      "set": ">=0",
+      "polynomial": {
+        "coeftype": "Int64",
+        "terms": [
+          [1,[1],[2]]
+        ]
+      }
+    }
+  ],
+  "objective": {
+    "set": "inf",
+    "polynomial": {
+      "coeftype": "Int64",
+      "terms": [
+        [1,[1],[1]],
+        [-1,[1],[2]]
+      ]
+    }
+  },
+  "version": "0.0.1",
+  "uuid": "640f0e22-9ebc-11eb-21ef-35098d73060e",
+  "name": "Linear example",
+  "author": "Rémi Prebet"
+}
