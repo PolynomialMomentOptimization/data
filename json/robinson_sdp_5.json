@@ -2066,6 +2066,5 @@
   "uuid": "8ffd8490-db35-11eb-066e-374f4cd47fe0",
   "doc": "Lasserre's moment relaxation of order 5 of robinson_polynomial.json \n",
   "author": "Lorenzo Baldi",
-  "Name": "Robinson Polynomial, SDP order 5",
-  "name": "Robinson Polynomial, SDP order 5"
+  "name": "Robinson Polynomial SDP order 5"
 }
