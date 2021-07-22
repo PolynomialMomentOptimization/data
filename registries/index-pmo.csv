@@ -41,3 +41,4 @@ f8099246-db4b-11eb-00b6-bdd813cca6e5,Robinson Polynomial SDP order 4,https://raw
 01f33822-db4c-11eb-0368-27b48d1b77b9,Robinson Polynomial SDP order 5,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/robinson_sdp_5.json
 c68352c6-e545-11eb-18b4-539fab7b7e7b,Gradient Ideal Modified Motzkin,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/gradient_ideal_motzkin.json
 d76ff7c8-e548-11eb-1888-0bd3a1942437,Gradient Ideal Modified Motzkin SDP formulation order 4,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/gradient_ideal_motzkin_sdp_4.json
+e056a340-ead5-11eb-3d60-cfc14c4075eb,WB2_mod1,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master\json\WB2_mod1.json
