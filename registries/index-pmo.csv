@@ -43,3 +43,4 @@ c68352c6-e545-11eb-18b4-539fab7b7e7b,Gradient Ideal Modified Motzkin,https://raw
 d76ff7c8-e548-11eb-1888-0bd3a1942437,Gradient Ideal Modified Motzkin SDP formulation order 4,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/gradient_ideal_motzkin_sdp_4.json
 e056a340-ead5-11eb-3d60-cfc14c4075eb,WB2_mod1,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master\json\WB2_mod1.json
 1cd6c430-ead6-11eb-315a-d380c80ad996,WB2_mod2,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master\json\WB2_mod2.json
+d9b5aa7a-4cff-11ec-14c3-49d3764cccdf,Pentahedral Sylvester Cubic,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/pentahedral.json
