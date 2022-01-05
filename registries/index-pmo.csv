@@ -108,4 +108,3 @@ e241d592-6333-11ec-344e-fd5cc346ebe8,pglib_opf_case240_pserc__sad,https://raw.gi
 f1651be0-6333-11ec-01d9-bb15f890703e,pglib_opf_case300_ieee__sad,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master\json\pglib_opf_case300_ieee__sad.json
 03a64402-6334-11ec-013d-33a05a281ede,pglib_opf_case500_goc__sad,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master\json\pglib_opf_case500_goc__sad.json
 7fe89180-6334-11ec-0719-614ae6330cf7,pglib_opf_case588_sdet__sad,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master\json\pglib_opf_case588_sdet__sad.json
-cd80ca18-6e4a-11ec-2432-0be25f888d12,Motzkin bounded,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/motzkin_bounded.1.json
