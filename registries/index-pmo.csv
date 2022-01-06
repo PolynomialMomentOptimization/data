@@ -128,3 +128,4 @@ a8f2279e-6cc6-11ec-19dc-5f21a56c4d89,Example options pricing 2x4 inf,https://raw
 c5471620-6cc6-11ec-1ea5-0b85f626071e,Example options pricing 2x5 inf,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/option_prices_example2x5_inf.json
 c0562d74-6cc6-11ec-28fe-c5b1625d0482,Example options pricing 2x5 sup,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/option_prices_example2x5_sup.json
 dc424462-6cc6-11ec-3922-410d7a55bc58,Example options pricing 2x6 sup,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/option_prices_example2x6_sup.json
+de5cf166-6cc6-11ec-1c89-11e1ffac8add,Example options pricing 2x6 inf,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/option_prices_example2x6_inf.json
