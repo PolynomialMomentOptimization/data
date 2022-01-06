@@ -8,7 +8,7 @@
   "nms": 14,
   "constraints": [
     {
-      "set": " inf ",
+      "set": " sup ",
       "moments": {
         "coeftype": "Float64",
         "terms": [
