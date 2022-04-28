@@ -131,10 +131,10 @@ de5cf166-6cc6-11ec-1c89-11e1ffac8add,Example options pricing 2x6 inf,https://raw
 499c23d2-6cc7-11ec-21e6-e90394cf18d0,Example options pricing 3 inf,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/option_prices_example3_inf.json
 452de044-6cc7-11ec-3c71-7b1359917186,Example options pricing 3 sup,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/option_prices_example3_sup.json
 4d2c05a6-c6bc-11ec-2b70-67ad2603b86a,Motzkin,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/motzkin.1.json
-d5c26f3c-4c81-11ec-38b6-672b139c9887,Penthaedral Sylvester Cubic,/Users/mourrain/.julia/PMO/data/registries/penthaedral.json
-deb9fc70-6335-11ec-3ba8-2b26988c7954,pglib_opf_case793_goc__sad,/Users/mourrain/.julia/PMO/data/registries/pglib_opf_case793_goc__sad.json
-be711d0c-9add-11eb-098a-0f8b260d2a05,problems/SDPA/tru11.dat-s,/Users/mourrain/.julia/PMO/data/registries/tru11.json
-d3e71074-9add-11eb-2729-fbf5d428010a,problems/SDPA/tru13.dat-s,/Users/mourrain/.julia/PMO/data/registries/tru13.json
-ef2370c6-9add-11eb-0a9d-a5b44db8e767,problems/SDPA/tru15.dat-s,/Users/mourrain/.julia/PMO/data/registries/tru15.json
-0361cdee-9ade-11eb-239c-cd294b3bff8a,problems/SDPA/tru17.dat-s,/Users/mourrain/.julia/PMO/data/registries/tru17.json
+d5c26f3c-4c81-11ec-38b6-672b139c9887,Penthaedral Sylvester Cubic,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/penthaedral.json
+deb9fc70-6335-11ec-3ba8-2b26988c7954,pglib_opf_case793_goc__sad,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/pglib_opf_case793_goc__sad.json
+be711d0c-9add-11eb-098a-0f8b260d2a05,problems/SDPA/tru11.dat-s,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/tru11.json
+d3e71074-9add-11eb-2729-fbf5d428010a,problems/SDPA/tru13.dat-s,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/tru13.json
+ef2370c6-9add-11eb-0a9d-a5b44db8e767,problems/SDPA/tru15.dat-s,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/tru15.json
+0361cdee-9ade-11eb-239c-cd294b3bff8a,problems/SDPA/tru17.dat-s,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/tru17.json
 83c94e7a-f3ab-5447-9af7-d94c0b1920cf,basic example,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/83c94e7a-f3ab-5447-9af7-d94c0b1920cf.json
