@@ -1,0 +1,36 @@
+{
+  "type": "polynomial",
+  "variables": [
+    "x",
+    "y"
+  ],
+  "nvar": 2,
+  "constraints": [
+    {
+      "set": ">=0",
+      "polynomial": {
+        "coeftype": "Int64",
+        "terms": [
+          [-1,[2],[1]],
+          [-1,[2],[2]],
+          [4]
+        ]
+      }
+    }
+  ],
+  "objective": {
+    "set": "inf",
+    "polynomial": {
+      "coeftype": "Int64",
+      "terms": [
+        [1,[4,2]],
+        [1,[2,4]],
+        [-3,[2,2]],
+        [1]
+      ]
+    }
+  },
+  "version": "0.0.1",
+  "uuid": "4d887a98-c6c6-11ec-053c-678d44c54fe0",
+  "name": "Motzkin bounded in S2/2D"
+}
