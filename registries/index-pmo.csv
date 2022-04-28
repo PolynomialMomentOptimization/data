@@ -139,3 +139,4 @@ d3e71074-9add-11eb-2729-fbf5d428010a,problems/SDPA/tru13.dat-s,/Users/mourrain/.
 ef2370c6-9add-11eb-0a9d-a5b44db8e767,problems/SDPA/tru15.dat-s,/Users/mourrain/.julia/PMO/data/registries/tru15.json
 0361cdee-9ade-11eb-239c-cd294b3bff8a,problems/SDPA/tru17.dat-s,/Users/mourrain/.julia/PMO/data/registries/tru17.json
 c018a2b8-c6bc-11ec-2cab-4f147121cfe6,Motzkin,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/motzkin.2.json
+75adaf32-c6be-11ec-3a27-074bca1c4031,Motzkin,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/json/motzkin.3.json
